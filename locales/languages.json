@@ -1,4 +1,8 @@
 {
+  "ja": {
+    "label": "日本語",
+    "llmInstruction": "日本語で回答してください。"
+  },
   "zh": {
     "label": "中文",
     "llmInstruction": "请使用中文回答。"
